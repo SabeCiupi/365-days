@@ -107,7 +107,7 @@ Operators are used to perform calculations and comparisons
 | Operators  | Description               | Example |
 |------------|---------------------------|---------|
 | `&&`       | AND                 | `x > 5 && X < 10` |
-| `\\`       | OR             | `x > 5 \\ X < 10` |
+| `<code>&#124;&#124;</code> `       | OR             | `x > 5 <code>&#124;&#124;</code>  X < 10` |
 | `!`        | NOT             | `!(x > 5)`  |
 
 ## 📝 Operators Precedence in C#
