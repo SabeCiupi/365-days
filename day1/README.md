@@ -131,3 +131,30 @@ In C#, operator precedence determines the order in which expressions are evaluat
 | **14**              | `?:`                               | Ternary conditional                           | Right to Left    |
 | **15 (Lowest)**     | `=`, `+=`, `-=`, `*=`, `/=`, `%=`  | Assignment operators                          | Right to Left    |
 |                      | `&=`, `|=`, `^=`, `<<=`, `>>=`     | Compound assignment                           | Right to Left    |
+
+# 🎰 Day 1 - Roulette Game (C++)
+This is my first project in the **365 Days of Code** challenge, where I am practicing game development and programming concepts daily.
+
+## 🔹 About the Game
+This is a simple **roulette simulation** written in **C++**. The game allows the player to place a bet on:
+- **Red or Black**
+- **Even or Odd**
+- **A specific number (0-36)**
+
+The program then generates a **random winning number and color**, and determines if the player's bet was correct.
+
+## 🔹 How It Works
+1. The game randomly picks a **winning number (0-36)**.
+2. The corresponding **color** is assigned:
+   - **0 → Green**
+   - **Odd numbers → Red**
+   - **Even numbers → Black**
+3. The player places a bet.
+4. The game checks if the bet **matches the winning number, color, or type (even/odd)**.
+5. The result is displayed: `"You won!"` or `"You've lost. Better luck next time!"`.
+
+## 🔹 How to Run the Program
+### **1. Compile the C++ Code**
+Run the following command in the terminal:
+```sh
+g++ roulette.cpp -o roulette
