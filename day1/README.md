@@ -1,7 +1,7 @@
 # Day 1 - Roulette Game
 
 ## 📝 Variables in C#
-A **variable* is a space in memory where we store a value.
+A **variable** is a space in memory where we store a value.
 Syntax:
 typeDate NameVariable = value;
 ex: int age = 20;
