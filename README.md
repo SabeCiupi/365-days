@@ -18,6 +18,8 @@ This table keeps track of each day's project:
 | **Day**   | **Description** | **Language/Tech** |
 |:-----------:|:----------------:|:-----------------:|
 | Day 1     | Recapped **variables, data types, operators, and conditional statements** in C++. Built a **roulette game** to apply these concepts. Covered **logical operators, precedence, and user input handling**.| C++ |
+| Day 2     | Built a **simple calculator with UI** in Unity. Covered **UI elements, button interactions, input handling, and real-time result display**.| C# (Unity) |
+
 
 ---
 
