@@ -15,9 +15,9 @@ Each day, I build a **small project or feature**, improving my skills in **C++, 
 ## **📌 Daily Progress Tracker**
 This table keeps track of each day's project:
 
-| **Day** | **Date** | **Project** | **Description** | **Language/Tech** |
+| **Day** | **Project** | **Description** | **Language/Tech** |
 |---------|---------|------------|----------------|-----------------|
-| Day 1  | 19-02-2025 | 🎰 Roulette Game | Recapped **variables, data types, operators, and conditional statements** in C++. \nBuilt a **roulette game** to apply these concepts.  \nCovered **logical operators, precedence, and user input handling**.| C++ |
+| Day 1  | 🎰 Roulette Game | Recapped **variables, data types, operators, and conditional statements** in C++. Built a **roulette game** to apply these concepts. Covered **logical operators, precedence, and user input handling**.| C++ |
 
 ---
 
