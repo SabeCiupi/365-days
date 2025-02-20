@@ -16,7 +16,7 @@ Each day, I build a **small project or feature**, improving my skills in **C++, 
 This table keeps track of each day's project:
 
 | **Day** | **Project** | **Description** | **Language/Tech** |
-|---------|---------|------------|----------------|-----------------|
+|---------|------------|----------------|-----------------|
 | Day 1  | 🎰 Roulette Game | Recapped **variables, data types, operators, and conditional statements** in C++. Built a **roulette game** to apply these concepts. Covered **logical operators, precedence, and user input handling**.| C++ |
 
 ---
