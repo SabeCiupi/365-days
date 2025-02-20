@@ -15,7 +15,7 @@ It performs **basic arithmetic operations**:
 ## **📌 Preview**
 Here’s how the calculator looks in action:  
 
-![Simple Calculator](Screenshot 2025-02-20 145453.png)
+![Simple Calculator](image.png)
 
 ---
 
